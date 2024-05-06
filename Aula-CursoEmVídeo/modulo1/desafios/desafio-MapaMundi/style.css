@@ -1,0 +1,11 @@
+.div-mapa div{
+    border: solid black;
+    width: 200px;
+    height: 200px;
+}
+
+.mapa{
+    width: 33%;
+    height: 33%;
+    object-fit: cover;
+}
